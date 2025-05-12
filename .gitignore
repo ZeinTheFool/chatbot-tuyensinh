@@ -1,0 +1,23 @@
+# Ignore Python virtual environment
+rasa-env/
+venv/
+.venv/
+.rasa/cache/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs and temp files
+*.log
+*.bak
+*.swp
+
+# Ignore Rasa temporary files
+*.db
+*.sqlite
+*.h5
+models/
+*.tar.gz

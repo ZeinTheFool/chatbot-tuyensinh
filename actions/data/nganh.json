@@ -1,0 +1,664 @@
+[
+  {
+    "ma_nganh": "7510201",
+    "ten_nganh": "Công nghệ kỹ thuật cơ khí",
+    "gioi_thieu_chung": "Ngành **Công nghệ Kỹ thuật Cơ khí** tại Trường Đại học Giao thông Vận tải TP.HCM được thiết kế để đào tạo cử nhân có khả năng thiết kế, chế tạo, vận hành và bảo trì các hệ thống cơ khí trong sản xuất công nghiệp. Sinh viên sẽ được trang bị kiến thức về cơ học, vật liệu, công nghệ chế tạo, tự động hóa và các phần mềm thiết kế kỹ thuật.\n\nSinh viên sau khi tốt nghiệp có khả năng:\n\n✔️ Thiết kế và chế tạo các chi tiết, cụm chi tiết cơ khí.\n\n✔️ Vận hành và bảo trì các thiết bị, hệ thống cơ khí trong sản xuất.\n\n✔️ Sử dụng thành thạo các phần mềm thiết kế kỹ thuật như AutoCAD, SolidWorks.\n\n✔️ Quản lý và điều hành các dây chuyền sản xuất cơ khí.\n\n✔️ Nghiên cứu và ứng dụng các công nghệ mới trong lĩnh vực cơ khí.",
+    "co_hoi_viec_lam": [
+      "Tổ chức sản xuất và quản lý, điều hành, giám sát quá trình công nghệ chế tạo và lắp đặt các thiết bị dùng trong lĩnh vực logistics và khai thác cảng sông, cảng biển, cảng cạn",
+      "Có thể công tác tại các doanh nghiệp làm dịch vụ cảng biển, cảng sông cụ thể các chuyên môn: kế hoạch kinh doanh, kiểm toán, pháp chế, kỹ thuật – vật tư",
+      "Có thể làm việc tại các doanh nghiệp cảng biển, cảng sông, ICD, trung tâm logistics",
+      "Có thể làm việc trong các doanh nghiệp logistics, doanh nghiệp làm dịch vụ vận tải đa phương thức nói riêng và các doanh nghiệp dịch vụ vận tải, giao nhận nói chung",
+      "Các phòng ban nghiệp vụ phù hợp chuyên môn gồm: kế hoạch, khai thác, marketing, dịch vụ khách hàng, kinh doanh quốc tế, kho vận, cung ứng vật tư, kế toán, phân phối, pháp chế, điều độ cảng",
+      "Giảng dạy, nghiên cứu trong các cơ sở đào tạo đại học, cao đẳng, dạy nghề, các cơ sở nghiên cứu, chuyển giao, ứng dụng tiến bộ khoa học kỹ thuật chuyên ngành về phát triển cơ sở hạ tầng…",
+      "Học nâng cao trình độ thạc sĩ/ tiến sĩ hoặc chuyên sâu theo chuyên ngành; hoặc liên thông văn bằng hai với các ngành khác."
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": null,
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": 23.0
+    }
+  },
+  {
+    "ma_nganh": "7510303",
+    "ten_nganh": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+    "gioi_thieu_chung": "Chương trình đào tạo ngành CÔNG NGHỆ KỸ THUẬT ĐIỀU KHIỂN VÀ TỰ ĐỘNG HÓA được xây dựng và triển khai nhằm mục tiêu đào tạo cử nhân có phẩm chất chính trị vững vàng, có ý thức tổ chức kỷ luật, đạo đức nghề nghiệp; có kiến thức chuyên môn vững vàng, kỹ năng thực hành thành thạo, có khả năng làm việc độc lập, sáng tạo, biết giải quyết các vấn đề chuyên môn trong lĩnh vực Công nghệ tự động hóa; Có phương pháp tư duy, năng lực tự nghiên cứu và phong cách làm việc hiện đại, đáp ứng các yêu cầu về nghiên cứu phát triển và ứng dụng Công nghệ kỹ thuật tự động hóa công nghiệp của xã hội. Sinh viên được cung cấp kiến thức cơ bản về lĩnh vực Công nghệ kỹ thuật điều khiển và tự động hóa, kiến thức chuyên sâu ngành Công nghệ kỹ thuật điều khiển và tự động hóa, khả năng xây dựng mô hình và áp dụng các phương pháp điều khiển hệ thống của Công nghệ kỹ thuật điều khiển và tự động hóa vào thực tiễn. Có khả năng tham mưu tư vấn và có khả năng tổ chức thực hiện nhiệm vụ trong phạm vi quyền hạn của một kỹ sư/cử nhân trong lĩnh vực Công nghệ kỹ thuật điều khiển và tự động hóa.",
+    "co_hoi_viec_lam": [
+      "Làm việc tại các công ty, tập đoàn công nghệ hàng đầu (Vin Group, ABB, Siemens, Schneider, Samsung,…) với các vị trí như Kỹ sư Công nghệ Điều khiển và Tự động hóa, Chuyên gia Tự động hóa, Kỹ sư Robot học, Kỹ sư Điều khiển Công nghiệp, Chuyên gia IoT, Kỹ sư Trí tuệ nhân tạo và Machine Learning, Chuyên gia Tự động hóa Dự án, Kỹ sư Tối ưu hóa Hệ thống, Nhà phát triển sản phẩm Công nghệ, Chuyên gia An toàn và Bảo mật Công nghệ, …",
+      "Kỹ sư, nhân viên kỹ thuật chuyên nghiệp: Đảm bảo vận hành, bảo dưỡng và sửa chữa hệ thống Tự động hóa công nghiệp tại các nhà máy, xí nghiệp, tàu biển, cảng biển, dầu khí.",
+      "Chuyên gia tư vấn và thiết kế: Tham gia vào việc thiết kế, thi công, giám sát, và vận hành hệ thống cung cấp điện và tự động hóa cho các tòa nhà, có thể làm tại các tập đoàn như Coteccons, Newtecons.",
+      "Nhiều vị trí trong các phòng ban nghiệp vụ: Có thể tham gia vào các phòng ban như kế hoạch, marketing, dịch vụ khách hàng, kinh doanh quốc tế, kho vận, cung ứng vật tư, kế toán, phân phối, pháp chế, điều độ cảng.",
+      "Giảng dạy và nghiên cứu tại các cơ sở đào tạo đại học, cao đẳng, nơi nghiên cứu và ứng dụng tiến bộ khoa học kỹ thuật chuyên ngành về phát triển cơ sở hạ tầng.",
+      "Học tiếp cao học hoặc chuyên sâu: Tiếp tục nghiên cứu với trình độ thạc sĩ/ tiến sĩ hoặc chuyên sâu theo chuyên ngành hoặc liên thông văn bằng hai với các ngành khác."
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": 18.0,
+      "2021": 19.0,
+      "2022": 20.0,
+      "2023": 21.0,
+      "2024": 22.0
+    }
+  },
+  {
+    "ma_nganh": "7510104",
+    "ten_nganh": "Ngành công nghệ kỹ thuật giao thông",
+    "gioi_thieu_chung": "Chào bạn! Ngành **Công nghệ Kỹ thuật Giao thông** cung cấp cho sinh viên những kiến thức vững vàng trong việc nghiên cứu, phát triển và quản lý các hệ thống giao thông. Ngành học này được chia thành hai chuyên ngành chính: **Quy hoạch và quản lý giao thông** và **Kỹ thuật giao thông**.\n\n- Chuyên ngành **Quy hoạch và quản lý giao thông** trang bị cho sinh viên kiến thức về lập kế hoạch phát triển giao thông, phân tích nhu cầu giao thông, và dự báo tác động của các dự án giao thông. Sinh viên cũng sẽ được học cách lập báo cáo kỹ thuật và chiến lược phát triển giao thông cho các tỉnh thành phố.\n\n- Chuyên ngành **Kỹ thuật giao thông** tập trung vào thiết kế, thi công và quản lý các công trình hạ tầng giao thông như đường bộ, cầu, đường sắt, cảng, sân bay, v.v. Sinh viên sẽ có cơ hội tham gia vào các dự án phát triển hạ tầng giao thông lớn và nghiên cứu các giải pháp kỹ thuật mới nhằm tối ưu hóa hiệu quả giao thông.",
+    "co_hoi_viec_lam": [
+      "Điều tra, khảo sát, phân tích và dự báo nhu cầu giao thông, đánh giá tác động của phát triển đô thị lên hệ thống giao thông hiện hữu tại các tỉnh thành phố",
+      "Lập báo cáo kinh tế kỹ thuật cho các dự án phát triển hạ tầng giao thông tại các tỉnh thành phố",
+      "Tham gia phát triển các dự án phát triển bất động sản, phát triển đô thị, phát triển vùng bền vững, đô thị gắn với phát triển giao thông công cộng (TOD), dự án bất động sản, cơ sở hạ tầng giao thông gắn liền với các giải pháp hạn chế của biến đổi khí hậu",
+      "Lập quy hoạch phát triển GTVT trong khu vực đô thị và nông thôn bao gồm các công trình đường bộ, công trình đường sắt – metro, công trình đường thủy – cảng, sân bay",
+      "Lập báo cáo đầu tư & phân tích hiệu quả kinh tế – xã hội dự án công trình GTVT",
+      "Tham gia thiết kế và tổ chức thi công các công trình GTVT",
+      "Quản lý quy hoạch, xây dựng và khai thác các công trình GTVT",
+      "Nghiên cứu giải quyết các vấn đề về khoa học kỹ thuật thuộc lĩnh vực GTVT",
+      "Làm việc tại các cơ quan, đơn vị quy hoạch và quản lý GTVT như Sở GTVT, Sở Quy hoạch – Kiến trúc, Sở Xây dựng",
+      "Làm việc tại các cơ sở nghiên cứu, viện nghiên cứu phát triển Giao thông – Đô thị",
+      "Làm việc tại các tổ chức quản lý nhà nước có liên quan đến quy hoạch GTVT",
+      "Làm việc tại các đơn vị tư vấn quy hoạch, thiết kế, thi công và quản lý công trình GTVT trong và ngoài nước",
+      "Tiếp tục học tập nâng cao trình độ ở các bậc sau đại học tại các cơ sở GDĐT như trường ĐH, CĐ trong và ngoài nước"
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": null,
+      "2021": null,
+      "2022": null,
+      "2023": 21.75,
+      "2024": 19.0
+    }
+  },
+  {
+    "ma_nganh": "7510205",
+    "ten_nganh": "Công nghệ kỹ thuật ô tô",
+    "gioi_thieu_chung": "Đào tạo trình độ đại học ngành CÔNG NGHỆ KỸ THUẬT Ô TÔ theo định hướng ứng dụng; đào tạo người học có phẩm chất chính trị, đạo đức nghề nghiệp và sức khỏe tốt. Chương trình được thiết kế để cung cấp cho người học có các kiến thức cơ bản về chính trị, khoa học tự nhiên và xã hội; kiến thức nền tảng của ngành. Ngoài ra, người học còn được tập trung vào các các kiến thức về công nghệ hiện đại trong lĩnh vực ô tô như: công nghệ tự động hóa trong lắp ráp và chế tạo ô tô, ô tô điện, hệ thống giao thông thông minh, quản lý dịch vụ ô tô,…. Người học sau khi hoàn thành chương trình có khả năng làm việc độc lập, sáng tạo; điều hành hoạt động sản xuất; áp dụng tốt vào thực tế khai thác hiệu quả các thiết bị trong lĩnh vực cơ khí nói chung và trong ô tô nói riêng.Sau khi hoàn thành chương trình, người học còn có ý thức tự học, tự nâng cao trình độ, trách nhiệm xã hội và hòa nhập môi trường lao động đa quốc gia.",
+    "co_hoi_viec_lam": [
+      "Sau khi tốt nghiệp ngành CÔNG NGHỆ KỸ THUẬT Ô TÔ, người học có khả năng đảm nhận các công việc như:",
+      "Làm cán bộ kỹ thuật, quản lý, điều hành, dây chuyền công nghệ và chuyển giao công nghệ có liên quan về kỹ thuật trong công nghiệp, trong sản xuất và lắp ráp ô tô,…",
+      "Cán bộ kỹ thuật, vận hành, quản lý tại các trung tâm khai thác dịch vụ ô tô, các trung tâm đăng kiểm xe cơ giới, công ty bảo hiểm về ô tô,….",
+      "Chuyên viên kỹ thuật về thiết kế cơ khí và phụ tùng ô tô;",
+      "Cán bộ quản lý, chuyên viên hành chính Nhà nước về Giao thông vận tải, phương tiện cơ giới;",
+      "Kinh doanh về ô tô, phụ tùng ô tô; tự khởi nghiệp, giám đốc công ty hay garage ô tô,…",
+      "Cán bộ giảng dạy, nghiên cứu về kỹ thuật và ô tô tại các Viện, các trung tâm nghiên cứu và các trường đại học, cao đẳng, trung cấp,…",
+      "Học nâng cao trình độ thạc sĩ/ tiến sĩ hoặc chuyên sâu theo chuyên ngành; hoặc liên thông văn bằng hai với các ngành khác."
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": 23.8,
+      "2021": 25.4,
+      "2022": 19.0,
+      "2023": 25.5,
+      "2024": 24.0
+    }
+  },
+  {
+    "ma_nganh": "7480201",
+    "ten_nganh": "Công nghệ thông tin",
+    "gioi_thieu_chung": "Ngành Công nghệ thông tin\n\nChương trình đào tạo chuyên ngành Công nghệ thông tin tại Trường Đại học Giao thông Vận tải TP.HCM được xây dựng và triển khai nhằm đào tạo cử nhân ngành Công nghệ thông tin có phẩm chất chính trị vững vàng, ý thức tổ chức kỷ luật và đạo đức nghề nghiệp. Sinh viên sẽ được trang bị kiến thức cơ bản và chuyên sâu về chuyên ngành, khả năng thực hành nghề nghiệp vững vàng, phương pháp tư duy và năng lực tự nghiên cứu, giúp sinh viên thích ứng với sự phát triển nhanh chóng của công nghệ thông tin và yêu cầu ngày càng cao của xã hội.\n\nChương trình đào tạo này được thiết kế với mục tiêu cung cấp kiến thức cơ sở ngành, các kỹ năng nghề nghiệp và khả năng tự nghiên cứu cho sinh viên, giúp họ phát triển kiến thức rộng và có thể tự thích ứng với xu thế công nghệ mới. Chương trình đào tạo mang tính ứng dụng cao, nhằm đáp ứng nhu cầu nhân lực công nghệ thông tin cho xã hội và đặc biệt là ngành Giao thông vận tải.\n\n🟥 Mục tiêu đào tạo\n\nSinh viên sau khi tốt nghiệp ngành Công nghệ thông tin có khả năng:\n\n✔️ Kiến thức cơ bản: Sinh viên sẽ nắm vững các kiến thức toán học, khoa học tự nhiên, khoa học chính trị và pháp luật, cùng các kiến thức cơ sở kỹ thuật phục vụ cho việc tiếp thu các kiến thức chuyên môn và phát triển nghề nghiệp.\n\n✔️ Kiến thức chuyên ngành: Sinh viên có khả năng vận dụng các kiến thức về công nghệ thông tin trong việc quản lý, điều hành các hoạt động liên quan đến công nghệ thông tin trong thời đại hiện nay.\n\n✔️ Kỹ năng cá nhân: Sinh viên sẽ có các kỹ năng cá nhân cần thiết cho nhiều vị trí công việc khác nhau, đặc biệt là trong các môi trường làm việc liên ngành và đa văn hóa.\n\n✔️ Đạo đức nghề nghiệp: Sinh viên được trang bị tinh thần trách nhiệm với xã hội, đạo đức nghề nghiệp và khả năng chủ động trong công việc.\n\n✔️ Phát triển nghề nghiệp lâu dài: Sinh viên có khả năng tự học, nâng cao trình độ và học tập suốt đời để tiếp tục phát triển trong sự nghiệp.",
+    "co_hoi_viec_lam": [
+      "Sinh viên tốt nghiệp chuyên ngành CÔNG NGHỆ THÔNG TIN có thể đạt các vị trí phù hợp, hoạt động trong nền công nghiệp tri thức đang phát triển một cách mạnh mẽ, cả trong các cơ quan quản lý nhà nước lẫn các công ty đa quốc gia:",
+      "Cán bộ kỹ thuật, quản lý, điều hành trong lĩnh vực công nghệ thông tin;",
+      "Lập trình viên, kiểm thử sản phẩm phần mềm, quản lý quy trình phát triển phần mềm;",
+      "Chuyên viên IT, quản trị và giám sát an ninh mạng;",
+      "Thiết kế, xây dựng, phát triển, vận hành và bảo trì mạng máy tính nội bộ trong các doanh nghiệp, cơ quan, trường học;",
+      "Quản trị dự án hệ thống mạng thông tin;",
+      "Cán bộ nghiên cứu, cán bộ giảng dạy về công nghệ thông tin tại các Viện, Trung tâm nghiên cứu và các Cơ sở đào tạo…"
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": 20.5,
+      "2021": 21.0,
+      "2022": 22.0,
+      "2023": 23.5,
+      "2024": 24.5
+    }
+  },
+  {
+    "ma_nganh": "7340405",
+    "ten_nganh": "Ngành Hệ Thống Thông Tin Quản Lý",
+    "gioi_thieu_chung": "Chương trình đào tạo chuyên ngành Hệ thống thông tin quản lý được xây dựng và triển khai nhằm mục tiêu đào tạo cử nhân ngành Hệ thống thông tin có phẩm chất chính trị vững vàng, có ý thức tổ chức kỷ luật, đạo đức nghề nghiệp; có năng lực thực hành nghề nghiệp gồm kiến thức cơ bản và chuyên sâu về chuyên ngành; có phương pháp tư duy, năng lực tự nghiên cứu và phong cách làm việc hiện đại, có đạo đức nghề nghiệp, trách nhiệm đối với xã hội; có đủ kiến thức, kỹ năng cần thiết về công nghệ thông tin và kinh tế, quản lý; có năng lực sáng tạo và ứng dụng hệ thống thông tin vào quản trị cho các tổ chức – doanh nghiệp một cách hiệu quả trong thời đại cách mạng công nghiệp 4.0 đang diễn ra mạnh mẽ. Chương trình đào tạo được thiết kế nhằm cung cấp các kiến thức cơ sở ngành, kiến thức chuyên nghiệp và ứng dụng, các kỹ năng nghề nghiệp, và khả năng tự nghiên cứu cho sinh viên nhằm mở rộng kiến thức để thích ứng với xu thế phát triển của thời đại. Chương trình đào tạo được xây dựng dựa trên quan điểm chủ đạo là mang tính phân tích, ứng dụng cao, đáp ứng được nhu cầu nguồn nhân lực công nghệ thông tin cho xã hội và cho ngành Giao thông vận tải.",
+    "co_hoi_viec_lam": [
+      "Sinh viên sau khi tốt nghiệp có thể đảm nhận nhiều vị trí công việc trong các cơ quan, xí nghiệp như: thiết kế và quản lý một hệ thống thông tin kinh tế phục vụ cho các hoạt động quản lý kinh tế, quản trị kinh doanh; Chuyên viên phân tích hệ thống, tích hợp hệ thống; Quản trị viên hệ thống thông tin; Nhân viên đào tạo và hướng dẫn nhân viên ở các bộ phận quản lý dự án; Nếu đam mê lĩnh vực nghiên cứu giảng dạy có thể học lên cao để tham gia vào các trường đại học cao đẳng có đào tạo chuyên ngành này."
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": null,
+      "2021": null,
+      "2022": 24.4,
+      "2023": 24.5,
+      "2024": 21.5
+    }
+  },
+  {
+    "ma_nganh": "7840101",
+    "ten_nganh": "Ngành khai thác vận tải",
+    "gioi_thieu_chung": "Ngành Khai thác vận tải tại Trường Đại học Giao thông vận tải TP.HCM được thiết kế để đào tạo cử nhân có khả năng quản lý, khai thác và kinh doanh các loại hình vận tải như đường bộ, đường sắt, đường thủy và hàng không. Chương trình đào tạo trang bị cho sinh viên kiến thức chuyên sâu về tổ chức, điều hành và phát triển các dịch vụ vận tải, đáp ứng nhu cầu ngày càng cao của xã hội và thị trường lao động.​",
+    "co_hoi_viec_lam": [
+      "Sinh viên tốt nghiệp ngành Khai thác vận tải có thể đảm nhận các vị trí như:",
+      "Quản lý và điều hành các hoạt động vận tải tại bến xe, cảng biển, sân bay, ga tàu.",
+      "Phân tích và lập kế hoạch vận tải cho các doanh nghiệp logistics",
+      "Tư vấn và triển khai các giải pháp vận tải hiệu quả cho các tổ chức.",
+      "Quản trị và phát triển các dịch vụ vận tải hành khách và hàng hóa.",
+      "Tiếp tục học tập và nghiên cứu trong lĩnh vực quản lý vận tải và logistics.​"
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": null,
+      "2021": null,
+      "2022": null,
+      "2023": 24.4,
+      "2024": 25.65
+    }
+  },
+  {
+    "ma_nganh": "7460108",
+    "ten_nganh": "Khoa học dữ liệu",
+    "gioi_thieu_chung": "Chương trình đào tạo chuyên ngành Khoa học Dữ liệu được xây dựng và triển khai nhằm mục tiêu đào tạo cử nhân ngành Khoa học Dữ liệu có phẩm chất chính trị vững vàng, có ý thức tổ chức kỷ luật, đạo đức nghề nghiệp; có năng lực thực hành nghề nghiệp gồm kiến thức cơ bản và chuyên sâu về chuyên ngành; có phương pháp tư duy, năng lực tự nghiên cứu và phong cách làm việc hiện đại, đáp ứng các yêu cầu về nghiên cứu phát triển và có khả năng phân tích dữ liệu, ứng dụng các kỹ thuật của trí tuệ nhân tạo để khám phá dữ liệu, hỗ trợ ra quyết định, xây dựng chiến lược và thúc đẩy sự chuyển đổi số và kinh doanh số tại các tổ chức doanh nghiệp đạt lợi thế cạnh tranh trong môi trường hội nhập toàn cầu. Chương trình đào tạo được thiết kế nhằm cung cấp các kiến thức cơ sở ngành, kiến thức chuyên nghiệp và ứng dụng, các kỹ năng nghề nghiệp, và khả năng tự nghiên cứu cho sinh viên nhằm mở rộng kiến thức để thích ứng với xu thế phát triển của thời đại. Chương trình đào tạo được xây dựng dựa trên quan điểm chủ đạo là mang tính phân tích, ứng dụng cao, đáp ứng được nhu cầu nguồn nhân lực công nghệ thông tin cho xã hội và cho ngành Giao thông vận tải.\nSinh viên sau khi tốt nghiệp có các khả năng:\n\n✔️ Có kiến thức cơ bản về toán học, khoa học tự nhiên, hỗ trợ cho việc tiếp thu các kiến thức chuyên môn và kỹ năng nghề nghiệp;\n\n✔️ Có kiến thức cơ bản về khoa học chính trị và pháp luật, khoa học xã hội phù hợp với chuyên môn được đào tạo;\n\n✔️ Có các kiến thức về cơ sở kỹ thuật và ngành, có khả năng vận dụng các kỹ thuật khai phá dữ liệu nhằm phát hiện các tri thức mới hỗ trợ ra quyết định tại tổ chức, doanh nghiệp;\n\n✔️ Có các kỹ năng cá nhân cần thiết, phù hợp nhiều vị trí việc làm trong môi trường làm việc liên ngành, đa văn hóa;\n\n✔️ Có đạo đức, có tinh thần trách nhiệm với xã hội;\n\n✔️ Có khả năng chủ động cho tương lai và ý thức tự nâng cao trình độ, học tập cả đời.",
+    "co_hoi_viec_lam": [
+      "Cán bộ khoa học dữ liệu, quản lý, điều hành trong lĩnh vực công nghệ thông tin.",
+      "Lập trình viên phân tích dữ liệu, kiểm thử sản phẩm phần mềm, quản lý quy trình phát triển phần mềm.",
+      "Chuyên viên phân tích, quản trị và giám sát an ninh mạng.",
+      "Thiết kế, xây dựng, phát triển, vận hành và bảo trì mạng máy tính nội bộ trong các doanh nghiệp, cơ quan, trường học.",
+      "Quản trị dự án hệ thống mạng thông tin.",
+      "Cán bộ nghiên cứu, cán bộ giảng dạy về công nghệ thông tin tại các Viện, Trung tâm nghiên cứu và các Cơ sở đào tạo."
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": 20.5,
+      "2021": 21.0,
+      "2022": 22.0,
+      "2023": 23.0,
+      "2024": 24.0
+    }
+  },
+  {
+    "ma_nganh": "7840106",
+    "ten_nganh": "Khoa học Hàng hải",
+    "gioi_thieu_chung": "Ngành **Khoa học Hàng hải** tại Trường Đại học Giao thông Vận tải TP.HCM cung cấp cho sinh viên những kiến thức chuyên sâu về hàng hải, từ kỹ thuật hàng hải đến các quy trình vận hành trong ngành vận tải biển. Chương trình đào tạo này trang bị cho sinh viên khả năng nghiên cứu và ứng dụng các kỹ thuật tiên tiến trong việc khai thác các tàu biển, vận hành cảng, cũng như các giải pháp về an toàn hàng hải và bảo vệ môi trường biển.\n\nChương trình được thiết kế để giúp sinh viên phát triển khả năng giải quyết vấn đề trong môi trường làm việc thực tế, đáp ứng yêu cầu của ngành công nghiệp hàng hải trong bối cảnh toàn cầu hóa hiện nay.\n\nSinh viên sau khi tốt nghiệp có các khả năng:\n\n✔️ Kiến thức cơ bản về toán học, khoa học tự nhiên và khoa học xã hội phù hợp với chuyên ngành đào tạo;\n\n✔️ Kiến thức về kỹ thuật hàng hải, từ thiết kế tàu, khai thác tàu đến quản lý cảng biển;\n\n✔️ Kỹ năng quản lý vận hành tàu biển, an toàn hàng hải, bảo vệ môi trường biển;\n\n✔️ Có khả năng áp dụng các phương pháp kỹ thuật hiện đại vào ngành hàng hải;\n\n✔️ Đạo đức nghề nghiệp cao, tinh thần trách nhiệm với nghề;\n\n✔️ Khả năng tự nghiên cứu và phát triển nghề nghiệp lâu dài.",
+    "co_hoi_viec_lam": [
+      "Cán bộ kỹ thuật trong ngành hàng hải, quản lý và vận hành tàu biển, cảng biển.",
+      "Chuyên viên an toàn hàng hải, quản lý các vấn đề bảo vệ môi trường biển.",
+      "Lập kế hoạch khai thác, bảo trì tàu biển, cảng biển và các phương tiện vận tải biển.",
+      "Tư vấn và triển khai các dự án liên quan đến ngành hàng hải, vận tải biển.",
+      "Cán bộ nghiên cứu tại các viện, trung tâm nghiên cứu về hàng hải và môi trường biển."
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D01"
+    ],
+    "diem_chuan": {
+      "2020": 22.0,
+      "2021": 22.5,
+      "2022": 23.0,
+      "2023": 23.5,
+      "2024": 24.0
+    }
+  },
+  {
+    "ma_nganh": "7840104",
+    "ten_nganh": "Kinh tế Vận tải",
+    "gioi_thieu_chung": "Ngành **Kinh tế Vận tải** tại Trường Đại học Giao thông Vận tải TP.HCM cung cấp cho sinh viên những kiến thức về quản lý và điều hành hoạt động vận tải trong nền kinh tế. Chương trình đào tạo này giúp sinh viên hiểu rõ về cơ cấu và hoạt động của các hệ thống vận tải, tối ưu hóa các quy trình logistics, phân tích chi phí – lợi ích và ra quyết định trong các doanh nghiệp vận tải. Sinh viên cũng sẽ được trang bị các kỹ năng về quản lý chuỗi cung ứng, hoạch định chiến lược vận tải và phát triển các giải pháp kinh tế vận tải trong bối cảnh toàn cầu hóa hiện nay.\n\nChương trình đào tạo này được thiết kế để cung cấp cho sinh viên kiến thức nền tảng về kinh tế, quản lý và vận tải, đồng thời trang bị kỹ năng phân tích, tổ chức và điều hành công việc trong các lĩnh vực liên quan đến vận tải và logistics.\n\nSinh viên sau khi tốt nghiệp có các khả năng:\n\n✔️ Kiến thức cơ bản về kinh tế, khoa học tự nhiên, xã hội và các ngành liên quan đến vận tải;\n\n✔️ Kiến thức về quản lý và điều hành trong ngành vận tải, từ vận tải đường bộ, đường sắt, đường thủy đến vận tải hàng không;\n\n✔️ Kỹ năng phân tích chi phí – lợi ích, tối ưu hóa các quy trình vận tải, và ra quyết định trong ngành vận tải;\n\n✔️ Kỹ năng quản lý chuỗi cung ứng, tổ chức và điều hành các hệ thống vận tải;\n\n✔️ Đạo đức nghề nghiệp, tinh thần trách nhiệm và khả năng làm việc nhóm trong môi trường công việc liên ngành;\n\n✔️ Khả năng tự học, nâng cao trình độ và phát triển nghề nghiệp lâu dài.",
+    "co_hoi_viec_lam": [
+      "Quản lý vận tải trong các công ty vận tải, doanh nghiệp logistics.",
+      "Phân tích, tư vấn và lập kế hoạch phát triển các hệ thống vận tải, chuỗi cung ứng.",
+      "Điều hành và quản lý các hoạt động vận tải, bảo trì và phát triển hệ thống giao thông.",
+      "Tư vấn và phát triển các chiến lược logistics và vận tải cho các tổ chức, doanh nghiệp.",
+      "Làm việc tại các cơ quan, tổ chức nhà nước, cơ sở nghiên cứu và giảng dạy về kinh tế vận tải."
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": 19.5,
+      "2021": 20.0,
+      "2022": 21.0,
+      "2023": 21.5,
+      "2024": 22.0
+    }
+  },
+  {
+    "ma_nganh": "7580301",
+    "ten_nganh": "Kinh tế Xây dựng",
+    "gioi_thieu_chung": "Ngành **Kinh tế Xây dựng** tại Trường Đại học Giao thông Vận tải TP.HCM được thiết kế nhằm đào tạo cử nhân có khả năng áp dụng các nguyên lý kinh tế vào quản lý và điều hành các dự án xây dựng. Sinh viên sẽ được trang bị kiến thức về quản lý tài chính, kinh tế trong xây dựng, phân tích chi phí – lợi ích và lập kế hoạch tài chính cho các công trình xây dựng. Chương trình đào tạo cũng giúp sinh viên hiểu về các phương pháp quản lý dự án, đánh giá rủi ro và tối ưu hóa các quy trình trong các công ty xây dựng và các tổ chức liên quan.\n\nChương trình đào tạo này cung cấp cho sinh viên các kiến thức vững vàng về kỹ thuật xây dựng, kinh tế và quản lý dự án, đáp ứng yêu cầu ngày càng cao của ngành xây dựng trong bối cảnh phát triển đô thị hiện nay.\n\nSinh viên sau khi tốt nghiệp có các khả năng:\n\n✔️ Kiến thức cơ bản về kinh tế, khoa học tự nhiên, và các nguyên lý quản lý áp dụng trong ngành xây dựng;\n\n✔️ Kiến thức chuyên sâu về phân tích chi phí – lợi ích trong các dự án xây dựng và lập kế hoạch tài chính;\n\n✔️ Kỹ năng quản lý dự án, điều hành công trình xây dựng và tối ưu hóa các quy trình trong công ty xây dựng;\n\n✔️ Kỹ năng đánh giá rủi ro, lập kế hoạch và phân tích tài chính trong xây dựng;\n\n✔️ Đạo đức nghề nghiệp, tinh thần trách nhiệm và khả năng làm việc nhóm;\n\n✔️ Khả năng tự học và nâng cao trình độ để phát triển nghề nghiệp lâu dài trong ngành xây dựng.",
+    "co_hoi_viec_lam": [
+      "Quản lý và điều hành các dự án xây dựng, từ khâu lập kế hoạch đến giám sát và quản lý tài chính của công trình.",
+      "Phân tích và lập kế hoạch tài chính cho các dự án xây dựng, giám sát chi phí và lập báo cáo tài chính.",
+      "Tư vấn và lập kế hoạch kinh tế trong xây dựng cho các công ty xây dựng, cơ quan nhà nước và các tổ chức liên quan.",
+      "Tham gia vào công tác đấu thầu, đánh giá và lập hồ sơ đấu thầu cho các dự án xây dựng.",
+      "Quản lý các nguồn lực và nhân sự trong các công trình xây dựng lớn."
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": 20.0,
+      "2021": 20.5,
+      "2022": 21.0,
+      "2023": 21.5,
+      "2024": 22.0
+    }
+  },
+  {
+    "ma_nganh": "7520103",
+    "ten_nganh": "Kỹ thuật Cơ khí",
+    "gioi_thieu_chung": "Ngành **Kỹ thuật Cơ khí** tại Trường Đại học Giao thông Vận tải TP.HCM được thiết kế để đào tạo cử nhân có khả năng thiết kế, chế tạo và bảo trì các hệ thống cơ khí trong các ngành công nghiệp và giao thông vận tải. Sinh viên sẽ học các môn học về cơ khí, kỹ thuật chế tạo, vật liệu, cơ học, điều khiển tự động, cùng với các kỹ thuật hiện đại trong sản xuất và bảo trì thiết bị cơ khí. Chương trình đào tạo giúp sinh viên nắm vững các nguyên lý cơ khí cơ bản và ứng dụng chúng vào thực tế sản xuất và vận hành các thiết bị, hệ thống cơ khí trong các lĩnh vực khác nhau.\n\nSinh viên sau khi tốt nghiệp có các khả năng:\n\n✔️ Kiến thức cơ bản về toán học, khoa học tự nhiên, cơ khí và kỹ thuật chế tạo;\n\n✔️ Kiến thức chuyên sâu về cơ học, vật liệu, kỹ thuật chế tạo, thiết kế cơ khí, và các hệ thống cơ khí;\n\n✔️ Kỹ năng thiết kế, chế tạo, bảo trì và vận hành các thiết bị cơ khí trong các ngành công nghiệp và giao thông vận tải;\n\n✔️ Kỹ năng sử dụng phần mềm kỹ thuật, mô phỏng và tối ưu hóa các hệ thống cơ khí;\n\n✔️ Đạo đức nghề nghiệp, tinh thần trách nhiệm và khả năng làm việc nhóm;\n\n✔️ Khả năng nghiên cứu và phát triển trong ngành cơ khí và cải tiến công nghệ sản xuất.",
+    "co_hoi_viec_lam": [
+      "Kỹ sư thiết kế cơ khí, chế tạo và bảo trì các thiết bị cơ khí trong các công ty cơ khí, nhà máy sản xuất, và ngành công nghiệp giao thông vận tải.",
+      "Quản lý và điều hành các dây chuyền sản xuất, bảo trì thiết bị cơ khí trong các cơ sở sản xuất và nhà máy.",
+      "Kỹ sư nghiên cứu và phát triển các công nghệ chế tạo mới trong ngành cơ khí.",
+      "Tư vấn và triển khai các dự án cơ khí trong các công ty, tổ chức sản xuất và giao thông.",
+      "Làm việc tại các cơ sở giảng dạy và nghiên cứu trong lĩnh vực cơ khí."
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": 18.5,
+      "2021": 19.0,
+      "2022": 19.5,
+      "2023": 20.0,
+      "2024": 20.5
+    }
+  },
+  {
+    "ma_nganh": "7520201",
+    "ten_nganh": "Kỹ thuật Điện",
+    "gioi_thieu_chung": "Ngành **Kỹ thuật Điện** tại Trường Đại học Giao thông Vận tải TP.HCM được thiết kế để đào tạo cử nhân có khả năng thiết kế, lắp đặt, vận hành và bảo trì các hệ thống điện trong các lĩnh vực công nghiệp, giao thông vận tải và các ứng dụng khác. Chương trình đào tạo giúp sinh viên hiểu rõ về các nguyên lý điện, điện tử, tự động hóa và các công nghệ điện hiện đại, cung cấp kiến thức và kỹ năng cần thiết để làm việc trong các dự án điện, hệ thống năng lượng và các thiết bị điện. Sinh viên cũng sẽ được trang bị khả năng ứng dụng các phần mềm và công cụ thiết kế kỹ thuật, cũng như khả năng phân tích và giải quyết các vấn đề kỹ thuật trong ngành điện.\n\nSinh viên sau khi tốt nghiệp có các khả năng:\n\n✔️ Kiến thức cơ bản về toán học, khoa học tự nhiên, điện tử và tự động hóa;\n\n✔️ Kiến thức chuyên sâu về thiết kế, lắp đặt và bảo trì các hệ thống điện, thiết bị điện và năng lượng;\n\n✔️ Kỹ năng thiết kế và vận hành các hệ thống điện trong công nghiệp và giao thông;\n\n✔️ Kỹ năng sử dụng các phần mềm thiết kế kỹ thuật và công cụ mô phỏng hệ thống điện;\n\n✔️ Đạo đức nghề nghiệp, tinh thần trách nhiệm và khả năng làm việc nhóm;\n\n✔️ Khả năng nghiên cứu và phát triển trong ngành điện và cải tiến công nghệ sản xuất.",
+    "co_hoi_viec_lam": [
+      "Kỹ sư thiết kế và thi công các hệ thống điện, bao gồm điện công nghiệp, hệ thống năng lượng tái tạo, và các thiết bị điện trong các nhà máy sản xuất.",
+      "Quản lý và vận hành các hệ thống điện trong các cơ sở công nghiệp, tòa nhà, và hệ thống giao thông vận tải.",
+      "Kỹ sư bảo trì và sửa chữa các thiết bị điện, hệ thống điện công nghiệp và năng lượng.",
+      "Tư vấn và triển khai các giải pháp điện cho các dự án công nghiệp và xây dựng.",
+      "Làm việc tại các cơ sở nghiên cứu, phát triển công nghệ điện và năng lượng.",
+      "Cán bộ giảng dạy về kỹ thuật điện tại các cơ sở giáo dục và nghiên cứu."
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": 18.0,
+      "2021": 18.5,
+      "2022": 19.0,
+      "2023": 19.5,
+      "2024": 20.0
+    }
+  },
+  {
+    "ma_nganh": "7520207",
+    "ten_nganh": "Kỹ thuật điện, điện tử và điều khiển",
+    "gioi_thieu_chung":  "Ngành **Kỹ thuật Điện tử – Viễn thông** tại Trường Đại học Giao thông Vận tải TP.HCM được thiết kế để đào tạo cử nhân có khả năng thiết kế, triển khai và bảo trì các hệ thống điện tử và viễn thông hiện đại. Sinh viên sẽ được trang bị kiến thức về các hệ thống viễn thông, mạng máy tính, truyền thông dữ liệu, cùng các ứng dụng của điện tử trong giao thông và công nghiệp. Chương trình đào tạo này giúp sinh viên nắm vững các nguyên lý điện tử cơ bản và ứng dụng vào các dự án thực tế trong ngành viễn thông và mạng máy tính.\n\nSinh viên sau khi tốt nghiệp có các khả năng:\n\n✔️ Kiến thức cơ bản về điện tử, viễn thông, mạng máy tính, và truyền thông dữ liệu;\n\n✔️ Kiến thức về thiết kế và triển khai các hệ thống điện tử, viễn thông, và các ứng dụng của chúng;\n\n✔️ Kỹ năng sử dụng các công cụ thiết kế, mô phỏng và triển khai hệ thống điện tử và viễn thông;\n\n✔️ Kỹ năng quản trị mạng, bảo mật thông tin và tối ưu hóa hiệu suất mạng;\n\n✔️ Đạo đức nghề nghiệp và tinh thần trách nhiệm trong công việc;\n\n✔️ Khả năng nghiên cứu và phát triển công nghệ mới trong ngành viễn thông và điện tử.",
+    "co_hoi_viec_lam": [
+      "Thiết kế, triển khai và bảo trì các hệ thống viễn thông (mạng di động, mạng cáp quang, vệ tinh).",
+      "Quản trị và bảo mật mạng máy tính, tối ưu hóa hiệu suất mạng.",
+      "Thiết kế và phát triển các thiết bị điện tử, thiết bị IoT, bộ định tuyến, modem.",
+      "Phân tích và phát triển các hệ thống thông tin phục vụ cho các tổ chức và doanh nghiệp.",
+      "Ứng dụng công nghệ viễn thông trong định vị và dẫn đường, đặc biệt trong hàng không, hàng hải và giao thông vận tải."    
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": 21.0,
+      "2021": 21.0,
+      "2022": 21.0,
+      "2023": 21.5,
+      "2024": 22.0
+    }
+  },
+  {
+    "ma_nganh": "7520216",
+    "ten_nganh": "Kỹ thuật Điều khiển và Tự động hóa",
+    "gioi_thieu_chung": "Ngành **Kỹ thuật Điều khiển và Tự động hóa** tại Trường Đại học Giao thông Vận tải TP.HCM được thiết kế để đào tạo cử nhân có khả năng nghiên cứu, thiết kế, và phát triển các hệ thống điều khiển tự động trong các ngành công nghiệp và giao thông. Sinh viên sẽ học các môn học về điều khiển tự động, cảm biến, robot, và các hệ thống tự động hóa trong sản xuất và điều khiển giao thông. Chương trình đào tạo trang bị cho sinh viên kiến thức vững vàng về các kỹ thuật điều khiển, tự động hóa, và ứng dụng trong các lĩnh vực công nghiệp, năng lượng, giao thông và các hệ thống tự động hiện đại.\n\nSinh viên sau khi tốt nghiệp có các khả năng:\n\n✔️ Kiến thức cơ bản về toán học, khoa học tự nhiên, cơ khí, và kỹ thuật điều khiển;\n\n✔️ Kiến thức chuyên sâu về thiết kế và triển khai các hệ thống điều khiển và tự động hóa;\n\n✔️ Kỹ năng lập trình, thiết kế các hệ thống điều khiển, cảm biến và robot;\n\n✔️ Kỹ năng nghiên cứu, phát triển và ứng dụng các công nghệ tự động hóa vào thực tiễn;\n\n✔️ Đạo đức nghề nghiệp, tinh thần trách nhiệm với công việc và khả năng làm việc nhóm;\n\n✔️ Khả năng nghiên cứu và phát triển trong ngành tự động hóa và điều khiển.",
+    "co_hoi_viec_lam": [
+      "Kỹ sư điều khiển và tự động hóa, thiết kế và triển khai các hệ thống điều khiển tự động trong công nghiệp và giao thông.",
+      "Quản lý và vận hành các hệ thống tự động hóa trong sản xuất, nhà máy, và các hệ thống giao thông.",
+      "Kỹ sư nghiên cứu và phát triển các công nghệ tự động hóa, robot, và các ứng dụng điều khiển trong ngành công nghiệp.",
+      "Tư vấn và triển khai các giải pháp tự động hóa trong các doanh nghiệp, nhà máy sản xuất.",
+      "Giảng dạy và nghiên cứu tại các cơ sở giáo dục và nghiên cứu về điều khiển và tự động hóa."
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": 20.0,
+      "2021": 20.5,
+      "2022": 21.0,
+      "2023": 21.5,
+      "2024": 22.0
+    }
+  },
+  {
+    "ma_nganh": "7520320",
+    "ten_nganh": "Kỹ thuật Môi trường",
+    "gioi_thieu_chung": "Ngành **Kỹ thuật Môi trường** tại Trường Đại học Giao thông Vận tải TP.HCM được thiết kế để đào tạo cử nhân có khả năng ứng dụng các nguyên lý kỹ thuật vào việc bảo vệ và cải thiện chất lượng môi trường. Sinh viên sẽ học các môn học về xử lý nước, không khí, chất thải, và các công nghệ môi trường. Chương trình đào tạo giúp sinh viên phát triển kỹ năng thiết kế, xây dựng và vận hành các hệ thống xử lý môi trường, đồng thời nghiên cứu và ứng dụng các giải pháp kỹ thuật tiên tiến để bảo vệ môi trường sống và phát triển bền vững.\n\nSinh viên sau khi tốt nghiệp có các khả năng:\n\n✔️ Kiến thức cơ bản về môi trường, khoa học tự nhiên, và các hệ thống kỹ thuật môi trường;\n\n✔️ Kiến thức chuyên sâu về xử lý nước, không khí, chất thải, và các công nghệ bảo vệ môi trường;\n\n✔️ Kỹ năng thiết kế và vận hành các hệ thống xử lý nước thải, không khí, chất thải trong các nhà máy và cơ sở sản xuất;\n\n✔️ Kỹ năng đánh giá tác động môi trường của các dự án phát triển, và đề xuất các giải pháp bảo vệ môi trường;\n\n✔️ Đạo đức nghề nghiệp, tinh thần trách nhiệm và khả năng làm việc nhóm;\n\n✔️ Khả năng nghiên cứu và phát triển các giải pháp công nghệ môi trường tiên tiến.",
+    "co_hoi_viec_lam": [
+      "Kỹ sư môi trường, thiết kế và vận hành các hệ thống xử lý nước thải, không khí và chất thải trong công nghiệp.",
+      "Chuyên viên tư vấn và quản lý dự án môi trường, đánh giá tác động môi trường của các dự án xây dựng và công nghiệp.",
+      "Làm việc tại các cơ quan nhà nước, tổ chức nghiên cứu và các công ty trong lĩnh vực bảo vệ môi trường.",
+      "Nghiên cứu và phát triển các công nghệ môi trường trong các viện, trung tâm nghiên cứu.",
+      "Giảng dạy và nghiên cứu về công nghệ môi trường tại các cơ sở giáo dục."
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "B00",
+      "D01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": 19.5,
+      "2021": 20.0,
+      "2022": 20.5,
+      "2023": 21.0,
+      "2024": 21.5
+    }
+  },
+  {
+    "ma_nganh": "7520130",
+    "ten_nganh": "Kỹ thuật Ô tô",
+    "gioi_thieu_chung": "Ngành **Kỹ thuật Ô tô** tại Trường Đại học Giao thông Vận tải TP.HCM được thiết kế để đào tạo cử nhân có khả năng thiết kế, chế tạo, bảo trì và sửa chữa các phương tiện giao thông, đặc biệt là ô tô và các thiết bị liên quan. Chương trình đào tạo giúp sinh viên nắm vững các nguyên lý kỹ thuật ô tô, từ động cơ, hệ thống điện, truyền động đến các hệ thống an toàn và tiện nghi trong ô tô. Sinh viên cũng sẽ được trang bị kỹ năng thực hành trong việc phát triển, bảo trì và vận hành các hệ thống ô tô hiện đại.\n\nSinh viên sau khi tốt nghiệp có các khả năng:\n\n✔️ Kiến thức cơ bản về cơ khí, kỹ thuật chế tạo, điện tử và các hệ thống cơ khí trong ô tô;\n\n✔️ Kiến thức chuyên sâu về thiết kế, chế tạo và bảo trì các phương tiện ô tô, bao gồm các hệ thống động cơ, truyền động, điện tử và an toàn;\n\n✔️ Kỹ năng phân tích và khắc phục sự cố, sửa chữa và bảo trì ô tô;\n\n✔️ Kỹ năng sử dụng các công cụ và phần mềm kỹ thuật trong thiết kế, mô phỏng và tối ưu hóa các hệ thống ô tô;\n\n✔️ Đạo đức nghề nghiệp, tinh thần trách nhiệm với công việc và khả năng làm việc nhóm;\n\n✔️ Khả năng nghiên cứu và phát triển các công nghệ ô tô mới, đặc biệt là các phương tiện giao thông thông minh và thân thiện với môi trường.",
+    "co_hoi_viec_lam": [
+      "Kỹ sư thiết kế và chế tạo ô tô, phát triển các mẫu ô tô mới, bao gồm động cơ, hệ thống truyền động và các công nghệ ô tô tiên tiến.",
+      "Kỹ sư bảo trì và sửa chữa ô tô tại các trung tâm dịch vụ, gara ô tô.",
+      "Tư vấn và triển khai các dự án liên quan đến ô tô, từ thiết kế cho đến sản xuất và bảo trì.",
+      "Làm việc trong các công ty sản xuất ô tô, các cơ sở bảo trì và sửa chữa ô tô.",
+      "Giảng dạy và nghiên cứu tại các cơ sở giáo dục và nghiên cứu về công nghệ ô tô."
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": 18.5,
+      "2021": 19.0,
+      "2022": 19.5,
+      "2023": 20.0,
+      "2024": 20.5
+    }
+  },
+  {
+    "ma_nganh": "7520122",
+    "ten_nganh": "Kỹ thuật Tàu thủy",
+    "gioi_thieu_chung": "Ngành **Kỹ thuật Tàu thủy** tại Trường Đại học Giao thông Vận tải TP.HCM được thiết kế để đào tạo cử nhân có khả năng thiết kế, chế tạo, bảo trì và sửa chữa các phương tiện tàu thủy, bao gồm tàu chở hàng, tàu du lịch, và các phương tiện giao thông thủy khác. Sinh viên sẽ học các môn học về động cơ tàu thủy, hệ thống điện, điện tử, truyền động và các hệ thống điều khiển trong tàu thủy. Chương trình đào tạo giúp sinh viên nắm vững các nguyên lý kỹ thuật cơ bản của tàu thủy, đồng thời cung cấp kỹ năng thực hành và khả năng nghiên cứu phát triển công nghệ tàu thủy.\n\nSinh viên sau khi tốt nghiệp có các khả năng:\n\n✔️ Kiến thức cơ bản về cơ khí, điện tử, kỹ thuật chế tạo và hệ thống tàu thủy;\n\n✔️ Kiến thức chuyên sâu về thiết kế, chế tạo và bảo trì các tàu thủy, từ động cơ tàu, hệ thống điện đến các hệ thống điều khiển và an toàn tàu;\n\n✔️ Kỹ năng phân tích và khắc phục sự cố, sửa chữa và bảo trì tàu thủy;\n\n✔️ Kỹ năng sử dụng các công cụ kỹ thuật và phần mềm thiết kế tàu thủy;\n\n✔️ Đạo đức nghề nghiệp, tinh thần trách nhiệm với công việc và khả năng làm việc nhóm;\n\n✔️ Khả năng nghiên cứu và phát triển các công nghệ tàu thủy hiện đại và thân thiện với môi trường.",
+    "co_hoi_viec_lam": [
+      "Kỹ sư thiết kế và chế tạo tàu thủy, phát triển các mẫu tàu thủy mới, bao gồm động cơ, hệ thống truyền động và các công nghệ tàu thủy tiên tiến.",
+      "Kỹ sư bảo trì và sửa chữa tàu thủy tại các trung tâm dịch vụ, xưởng sửa chữa tàu.",
+      "Tư vấn và triển khai các dự án liên quan đến tàu thủy, từ thiết kế đến sản xuất và bảo trì.",
+      "Làm việc trong các công ty đóng tàu, các cơ sở bảo trì và sửa chữa tàu thủy.",
+      "Giảng dạy và nghiên cứu tại các cơ sở giáo dục và nghiên cứu về công nghệ tàu thủy."
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": 18.5,
+      "2021": 19.0,
+      "2022": 19.5,
+      "2023": 20.0,
+      "2024": 20.5
+    }
+  },
+  {
+    "ma_nganh": "7580201",
+    "ten_nganh": "Kỹ thuật Xây dựng",
+    "gioi_thieu_chung": "Ngành **Kỹ thuật Xây dựng** tại Trường Đại học Giao thông Vận tải TP.HCM được thiết kế để đào tạo cử nhân có khả năng thiết kế, thi công, quản lý các công trình xây dựng như cầu đường, nhà ở, tòa nhà và các công trình hạ tầng khác. Sinh viên sẽ được học các môn học về kết cấu công trình, vật liệu xây dựng, kỹ thuật thi công và quản lý dự án. Chương trình đào tạo giúp sinh viên nắm vững các nguyên lý xây dựng cơ bản và ứng dụng chúng vào các dự án thực tế trong ngành xây dựng.\n\nSinh viên sau khi tốt nghiệp có các khả năng:\n\n✔️ Kiến thức cơ bản về toán học, khoa học tự nhiên và các kỹ thuật xây dựng cơ bản;\n\n✔️ Kiến thức chuyên sâu về thiết kế kết cấu công trình, vật liệu xây dựng, kỹ thuật thi công, và quản lý dự án;\n\n✔️ Kỹ năng thiết kế và thi công các công trình xây dựng, từ các công trình dân dụng đến các công trình hạ tầng như cầu, đường, và hệ thống cấp thoát nước;\n\n✔️ Kỹ năng sử dụng phần mềm thiết kế và mô phỏng công trình xây dựng;\n\n✔️ Đạo đức nghề nghiệp, tinh thần trách nhiệm và khả năng làm việc nhóm;\n\n✔️ Khả năng nghiên cứu và phát triển trong lĩnh vực xây dựng, cải tiến công nghệ thi công và quản lý công trình.",
+    "co_hoi_viec_lam": [
+      "Kỹ sư thiết kế kết cấu, tính toán và lập hồ sơ thiết kế các công trình xây dựng.",
+      "Kỹ sư thi công, quản lý và giám sát các công trình xây dựng như cầu, đường, tòa nhà.",
+      "Chuyên viên tư vấn và lập kế hoạch quản lý dự án xây dựng, kiểm soát chi phí và tiến độ.",
+      "Kỹ sư quản lý và phát triển các dự án hạ tầng giao thông và xây dựng đô thị.",
+      "Làm việc tại các cơ quan nhà nước, các công ty xây dựng, hoặc các tổ chức nghiên cứu trong lĩnh vực xây dựng."
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": null,
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": 21.25
+    }
+  },
+  {
+    "ma_nganh": "7580205",
+    "ten_nganh": "Kỹ thuật Xây dựng công trình giao thông",
+    "gioi_thieu_chung": "Ngành **Kỹ thuật Xây dựng công trình giao thông** tại Trường Đại học Giao thông Vận tải TP.HCM được thiết kế để đào tạo cử nhân có khả năng thiết kế, thi công, quản lý các công trình giao thông như cầu, đường bộ, đường sắt, cảng, sân bay và các công trình hạ tầng giao thông khác. Sinh viên sẽ được trang bị kiến thức về trắc địa, kết cấu công trình, thủy lực, quy hoạch tuyến, tổ chức thi công và quản lý dự án giao thông.\n\nSinh viên sau khi tốt nghiệp có khả năng:\n\n✔️ Thiết kế và tính toán kết cấu công trình giao thông.\n\n✔️ Quản lý và giám sát thi công các công trình giao thông.\n\n✔️ Đánh giá tác động môi trường và đề xuất giải pháp bảo vệ môi trường trong xây dựng công trình giao thông.\n\n✔️ Sử dụng phần mềm chuyên dụng trong thiết kế và quản lý công trình giao thông.\n\n✔️ Nghiên cứu và phát triển công nghệ mới trong lĩnh vực xây dựng công trình giao thông.",
+    "co_hoi_viec_lam": [
+      "Kỹ sư thiết kế kết cấu cầu, đường, hầm, cảng, sân bay.",
+      "Kỹ sư giám sát thi công các công trình giao thông.",
+      "Chuyên viên tư vấn thiết kế và quản lý dự án giao thông.",
+      "Chuyên viên đánh giá tác động môi trường trong xây dựng công trình giao thông.",
+      "Giảng viên, nghiên cứu viên trong lĩnh vực xây dựng công trình giao thông."
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": 16.05,
+      "2021": 16.0,
+      "2022": 16.0,
+      "2023": 16.0,
+      "2024": 16.0
+    }
+  },
+  {
+    "ma_nganh": "7580202",
+    "ten_nganh": "Kinh tế xây dựng",
+    "gioi_thieu_chung": "Ngành **Kỹ thuật Xây dựng công trình thủy** tại Trường Đại học Giao thông Vận tải TP.HCM được thiết kế để đào tạo cử nhân có khả năng thiết kế, thi công, quản lý các công trình thủy như đập, hồ chứa nước, hệ thống cấp thoát nước, công trình thủy lợi và các công trình giao thông thủy. Sinh viên sẽ học các môn học về thủy lực, thủy văn, kết cấu công trình thủy, quy hoạch và quản lý công trình thủy. Chương trình đào tạo giúp sinh viên nắm vững các nguyên lý xây dựng công trình thủy và ứng dụng chúng vào các dự án thực tế.\n\nSinh viên sau khi tốt nghiệp có các khả năng:\n\n✔️ Thiết kế và tính toán kết cấu công trình thủy, hệ thống cấp thoát nước và công trình thủy lợi.\n\n✔️ Quản lý và giám sát thi công các công trình thủy.\n\n✔️ Đánh giá tác động môi trường của các công trình thủy và đề xuất giải pháp bảo vệ môi trường.\n\n✔️ Sử dụng phần mềm chuyên dụng trong thiết kế và mô phỏng công trình thủy.\n\n✔️ Nghiên cứu và phát triển công nghệ mới trong lĩnh vực xây dựng công trình thủy.",
+    "co_hoi_viec_lam": [
+      "Kỹ sư thiết kế kết cấu đập, hồ chứa nước, hệ thống cấp thoát nước và công trình thủy lợi.",
+      "Kỹ sư giám sát thi công các công trình thủy.",
+      "Chuyên viên tư vấn thiết kế và quản lý dự án công trình thủy.",
+      "Chuyên viên đánh giá tác động môi trường trong xây dựng công trình thủy.",
+      "Giảng viên, nghiên cứu viên trong lĩnh vực xây dựng công trình thủy."
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": 17.15,
+      "2021": 17.25,
+      "2022": 18.30,
+      "2023": 21.15,
+      "2024": 15.00
+    }
+  },
+  {
+    "ma_nganh": "7510605A",
+    "ten_nganh": "Logistics và Quản lý chuỗi cung ứng",
+    "gioi_thieu_chung": "Ngành **Logistics và Quản lý chuỗi cung ứng** tại Trường Đại học Giao thông Vận tải TP.HCM được thiết kế để đào tạo cử nhân có khả năng quản lý và tối ưu hóa các hoạt động trong chuỗi cung ứng, từ việc thu mua nguyên liệu, sản xuất, lưu kho, vận chuyển đến phân phối sản phẩm đến tay người tiêu dùng. Sinh viên sẽ được trang bị kiến thức về quản trị logistics, quản lý chuỗi cung ứng, công nghệ thông tin trong logistics, phân tích dữ liệu và kỹ năng quản lý dự án.\n\nSinh viên sau khi tốt nghiệp có khả năng:\n\n✔️ Quản lý và tối ưu hóa các hoạt động trong chuỗi cung ứng.\n\n✔️ Sử dụng công nghệ thông tin và phần mềm chuyên dụng trong quản lý logistics.\n\n✔️ Phân tích và xử lý dữ liệu để đưa ra quyết định trong quản lý chuỗi cung ứng.\n\n✔️ Quản lý dự án logistics và chuỗi cung ứng.\n\n✔️ Đánh giá và cải tiến hiệu quả hoạt động logistics.\n\n✔️ Làm việc trong môi trường quốc tế và đa văn hóa.",
+    "co_hoi_viec_lam": [
+      "Chuyên viên quản lý chuỗi cung ứng.",
+      "Chuyên viên logistics trong các công ty sản xuất, thương mại và dịch vụ.",
+      "Quản lý kho và phân phối.",
+      "Chuyên viên phân tích dữ liệu logistics.",
+      "Quản lý dự án logistics.",
+      "Giảng viên, nghiên cứu viên trong lĩnh vực logistics và chuỗi cung ứng."
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": 25.0,
+      "2021": 26.9,
+      "2022": 26.25,
+      "2023": 25.65,
+      "2024": 26.45
+    }
+  },
+  {
+    "ma_nganh": "7380101 ",
+    "ten_nganh": "Luật",
+    "gioi_thieu_chung": "Ngành **Luật** tại Trường Đại học Giao thông Vận tải TP.HCM được thiết kế để đào tạo cử nhân có khả năng nghiên cứu, giảng dạy và thực hành pháp luật trong các lĩnh vực như hành chính, dân sự, hình sự, thương mại, lao động, môi trường, giao thông vận tải và hải quan. Sinh viên sẽ được trang bị kiến thức cơ bản và chuyên sâu về pháp luật Việt Nam và quốc tế, kỹ năng phân tích, giải quyết vấn đề pháp lý và kỹ năng giao tiếp, thuyết trình.\n\nSinh viên sau khi tốt nghiệp có khả năng:\n\n✔️ Nắm vững các nguyên lý cơ bản của pháp luật và hệ thống pháp luật Việt Nam.\n\n✔️ Phân tích và giải quyết các vấn đề pháp lý trong các lĩnh vực khác nhau.\n\n✔️ Thực hiện các công việc pháp lý như soạn thảo văn bản pháp luật, hợp đồng, tham gia tố tụng và tư vấn pháp lý.\n\n✔️ Làm việc trong môi trường pháp lý đa dạng, bao gồm cơ quan nhà nước, tổ chức quốc tế, doanh nghiệp và tổ chức phi chính phủ.",
+    "co_hoi_viec_lam": [
+      "Cán bộ pháp chế tại các cơ quan nhà nước, tổ chức chính trị - xã hội.",
+      "Luật sư, kiểm sát viên, thẩm phán.",
+      "Chuyên viên pháp lý tại các doanh nghiệp, tổ chức.",
+      "Giảng viên, nghiên cứu viên trong lĩnh vực pháp luật.",
+      "Chuyên viên tư vấn pháp luật tại các tổ chức, công ty luật."
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D01",
+      "D14",
+      "D15"
+    ],
+    "diem_chuan": {
+      "2020": 22.5,
+      "2021": 23.0,
+      "2022": 24.0,
+      "2023": 24.5,
+      "2024": 25.0
+    }
+  },
+  {
+    "ma_nganh": "7480102",
+    "ten_nganh": "Mạng máy tính và Truyền thông dữ liệu",
+    "gioi_thieu_chung": "Ngành **Mạng máy tính và Truyền thông dữ liệu** tại Trường Đại học Giao thông Vận tải TP.HCM được thiết kế để đào tạo cử nhân có khả năng thiết kế, triển khai và quản lý các hệ thống mạng máy tính, đảm bảo truyền tải dữ liệu hiệu quả và an toàn. Sinh viên sẽ được trang bị kiến thức về mạng máy tính, giao thức truyền thông, an toàn thông tin, ảo hóa và điện toán đám mây, giúp đáp ứng nhu cầu nhân lực trong lĩnh vực công nghệ thông tin.\n\nSinh viên sau khi tốt nghiệp có khả năng:\n\n✔️ Thiết kế và triển khai hệ thống mạng máy tính.\n\n✔️ Quản lý và bảo mật mạng, đảm bảo an toàn thông tin.\n\n✔️ Áp dụng các công nghệ mới như ảo hóa, điện toán đám mây vào hệ thống mạng.\n\n✔️ Phân tích và giải quyết các vấn đề liên quan đến truyền thông dữ liệu.\n\n✔️ Làm việc trong môi trường công nghệ thông tin hiện đại.",
+    "co_hoi_viec_lam": [
+      "Kỹ sư mạng máy tính.",
+      "Chuyên viên an toàn thông tin.",
+      "Quản trị viên hệ thống mạng.",
+      "Chuyên viên hỗ trợ kỹ thuật mạng.",
+      "Chuyên viên phân tích và thiết kế hệ thống mạng."
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": 16.05,
+      "2021": 16.0,
+      "2022": 16.0,
+      "2023": 16.0,
+      "2024": 16.0
+    }
+  },
+  {
+    "ma_nganh": "7220201",
+    "ten_nganh": "Ngôn ngữ Anh",
+    "gioi_thieu_chung": "Ngành **Ngôn ngữ Anh** tại Trường Đại học Giao thông Vận tải TP.HCM được thiết kế để đào tạo cử nhân có khả năng sử dụng thành thạo tiếng Anh trong các lĩnh vực như giao tiếp, biên - phiên dịch, giảng dạy và nghiên cứu. Sinh viên sẽ được trang bị kiến thức về ngôn ngữ học, văn hóa, xã hội học, kỹ năng giao tiếp và sử dụng tiếng Anh trong môi trường chuyên nghiệp.\n\nSinh viên sau khi tốt nghiệp có khả năng:\n\n✔️ Sử dụng thành thạo tiếng Anh trong giao tiếp và công việc chuyên môn.\n\n✔️ Thực hiện biên - phiên dịch trong các lĩnh vực khác nhau.\n\n✔️ Giảng dạy tiếng Anh tại các cơ sở giáo dục.\n\n✔️ Nghiên cứu và phát triển trong lĩnh vực ngôn ngữ học và văn hóa.\n\n✔️ Làm việc trong môi trường quốc tế và đa văn hóa.",
+    "co_hoi_viec_lam": [
+      "Giảng viên tiếng Anh tại các trường học.",
+      "Biên - phiên dịch viên.",
+      "Nhân viên hành chính, thư ký, trợ lý tại các công ty, tổ chức quốc tế.",
+      "Chuyên viên quan hệ công chúng, truyền thông.",
+      "Nghiên cứu viên trong lĩnh vực ngôn ngữ học và văn hóa."
+    ],
+    "khoi_xet_tuyen": [
+      "A01",
+      "D01",
+      "D14",
+      "D15"
+    ],
+    "diem_chuan": {
+      "2020": 22.5,
+      "2021": 23.0,
+      "2022": 24.0,
+      "2023": 24.5,
+      "2024": 24.5
+    }
+  },
+  {
+    "ma_nganh": "7580302",
+    "ten_nganh": "Quản lý Xây dựng",
+    "gioi_thieu_chung": "Ngành **Quản lý Xây dựng** tại Trường Đại học Giao thông Vận tải TP.HCM được thiết kế để đào tạo cử nhân có khả năng quản lý và điều hành các dự án xây dựng, từ giai đoạn lập kế hoạch, thiết kế, thi công đến giám sát và nghiệm thu công trình. Sinh viên sẽ được trang bị kiến thức về quản trị dự án, kinh tế xây dựng, quản lý chi phí, an toàn lao động, môi trường và pháp luật liên quan đến xây dựng.\n\nSinh viên sau khi tốt nghiệp có khả năng:\n\n✔️ Quản lý và điều hành các dự án xây dựng, từ khâu lập kế hoạch đến nghiệm thu công trình.\n\n✔️ Phân tích và lập kế hoạch chi phí, đánh giá hiệu quả kinh tế của các dự án xây dựng.\n\n✔️ Quản lý chất lượng công trình, an toàn lao động và bảo vệ môi trường trong xây dựng.\n\n✔️ Thực hiện các nghiên cứu về quy hoạch, thiết kế và xây dựng công trình.\n\n✔️ Làm việc trong môi trường quốc tế và đa văn hóa.",
+    "co_hoi_viec_lam": [
+      "Quản lý dự án xây dựng tại các công ty xây dựng, nhà thầu và tổ chức chính phủ.",
+      "Kỹ sư tư vấn và giám sát các dự án xây dựng.",
+      "Chuyên viên quản lý chi phí, tài chính trong xây dựng.",
+      "Chuyên viên an toàn lao động và bảo vệ môi trường trong xây dựng.",
+      "Giảng viên, nghiên cứu viên trong lĩnh vực quản lý xây dựng."
+    ],
+    "khoi_xet_tuyen": [
+      "A00",
+      "A01",
+      "D01",
+      "D07"
+    ],
+    "diem_chuan": {
+      "2020": 18.5,
+      "2021": 19.0,
+      "2022": 19.5,
+      "2023": 20.0,
+      "2024": 20.5
+    }
+  }
+]

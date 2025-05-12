@@ -1,0 +1,6 @@
+version: "2.0"
+regex:
+- name: d
+  pattern: "\d+(?:\.\d+)?(?=\s*điểm)"
+- name: mon_hoc
+  pattern: "(?<=điểm\s)[^\d,\.và]+"
